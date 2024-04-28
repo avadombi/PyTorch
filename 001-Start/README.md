@@ -12,6 +12,6 @@ OR
 https://pytorch.org/get-started/locally/ to get the right CMD to execute for the current version.
 
 
-
+* **Step 4:** Use the conda associated python's interpreter for your Python interpreter in VS Code
 
 
